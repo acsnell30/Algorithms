@@ -1,3 +1,6 @@
-# Ford-Fulkerson
+# Algorithms
 
-Implementation  of the ford-fulkerson algorithm
+Implementation of populr algorithms:
+- Ford-Fulkerson
+- Dijkstra's
+- Knapsack
