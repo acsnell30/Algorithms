@@ -1,6 +1,6 @@
 # Algorithms
 
-Implementation of populr algorithms:
+Implementation of popular algorithms:
 - Ford-Fulkerson
 - Dijkstra's
 - Knapsack
